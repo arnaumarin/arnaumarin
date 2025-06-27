@@ -1,5 +1,4 @@
-# Hi there
-# I'm Arnau
+# Hi there - I'm Arnau
 
 **PhD student @ Harvard | AI · AI Agents · BCI · Python**
 
