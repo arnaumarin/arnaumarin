@@ -26,7 +26,7 @@ Trained in electrical engineering, signal processing, and bioinformatics, I’m 
 
 ---
 
-### 🍕 Fun fact  
+### Fun fact  
 I am dangerously good at making handmade pizza!
 
 ---
