@@ -1,13 +1,35 @@
-# Arnau Marin Llobet
+# Hi there 👋, I'm Arnau Marin Llobet
 
-PhD student at Harvard | AI, AI Agents, BCI, Python
-
-Trained in electrical engineering, signal processing, and bioinformatics, my current research focuses on computational neuroscience, agentic AI, and developing flexible brain-computer interfaces to address neurological disorders. I am the creator of SpikeAgent and passionate about advancing neurotechnology.
-
-- 🌐 [Website](https://arnaumarin.github.io/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/arnau-marin-llobet/)
-- 🍕 Fun fact: I am too good at cooking handmade pizza!
+**PhD student @ Harvard | AI · AI Agents · BCI · Python**
 
 ---
 
-*Always excited to collaborate at the intersection of neuroscience, AI, and engineering!*
+### 🧠 About Me  
+Trained in electrical engineering, signal processing, and bioinformatics, I’m currently researching computational neuroscience, agentic AI, and building brain-computer interfaces to help address neurological disorders.
+
+- Creator of [SpikeAgent](https://github.com/LiuLab-Bioelectronics-Harvard/SpikeAgent)  
+- Contributor to [BCI-Agent](https://github.com/LiuLab-Bioelectronics-Harvard/BCI-Agent)  
+- Passionate about advancing neurotechnology & open science
+
+---
+
+### 💡 What I'm Up To
+- 🔬 Pushing the boundaries of neuroscience & AI
+- 🤖 Building agentic AI systems for Science
+- 🧑‍🔬 Always exploring new interdisciplinary projects in the BCI space
+
+---
+
+### 🌐 Find Me Online
+- 💼 [LinkedIn](https://www.linkedin.com/in/arnau-marin-llobet/)
+- 🌍 [Website](https://arnaumarin.github.io/)
+- 📧 Reach out via LinkedIn or email!
+
+---
+
+### 🍕 Fun fact  
+I am dangerously good at making handmade pizza!
+
+---
+
+<p align="center"><i>Always excited to collaborate at the intersection of neuroscience, AI, and engineering!</i></p>
