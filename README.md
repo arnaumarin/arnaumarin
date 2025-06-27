@@ -1,6 +1,6 @@
 # Hi there - I'm Arnau
 
-**PhD student @ Harvard | AI · AI Agents · BCI · Python**
+**PhD student @ Harvard | AI · AI Agents · BCI**
 
 ---
 
