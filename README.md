@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Arnau Marin Llobet
+# Hi there 👋, I'm Arnau
 
 **PhD student @ Harvard | AI · AI Agents · BCI · Python**
 
