@@ -1,28 +1,28 @@
 # Hi there - I'm Arnau
 
-**PhD student @ Harvard | AI · AI Agents · BCI**
+**PhD student @ Harvard | AI & BCI**
 
 ---
 
-### 🧠 About Me  
+### About Me  
 Trained in electrical engineering, signal processing, and bioinformatics, I’m currently researching computational neuroscience, agentic AI, and building brain-computer interfaces to help address neurological disorders.
 
-- Creator of [SpikeAgent](https://github.com/LiuLab-Bioelectronics-Harvard/SpikeAgent) and [BCI-Agent](https://github.com/LiuLab-Bioelectronics-Harvard/BCI-Agent). Feel free to ask me about it!
+- One of the creators of [SpikeAgent](https://github.com/LiuLab-Bioelectronics-Harvard/SpikeAgent) and [BCI-Agent](https://github.com/LiuLab-Bioelectronics-Harvard/BCI-Agent). Feel free to ask me about it!
 - Passionate about advancing neurotechnology & open science
 
 ---
 
-### 💡 What I'm Up To
-- 🔬 Pushing the boundaries of neuroscience & AI
-- 🤖 Building agentic AI systems for Science
-- 🧑‍🔬 Always exploring new interdisciplinary projects in the BCI space
+### What I'm Up To
+- Pushing the boundaries of neuroscience & AI
+- Building agentic AI systems for (neuro)Science
+- Always exploring new interdisciplinary projects in the BCI space
 
 ---
 
-### 🌐 Find Me Online
-- 💼 [LinkedIn](https://www.linkedin.com/in/arnau-marin-llobet/)
-- 🌍 [Website](https://arnaumarin.github.io/)
-- 📧 Reach out via LinkedIn or email!
+### Find Me Online
+- [LinkedIn](https://www.linkedin.com/in/arnau-marin-llobet/)
+- [Website](https://arnaumarin.github.io/)
+- Reach out via LinkedIn or email!
 
 ---
 
