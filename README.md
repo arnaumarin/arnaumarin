@@ -8,7 +8,7 @@
 Trained in electrical engineering, signal processing, and bioinformatics, I’m currently researching computational neuroscience, agentic AI, and building brain-computer interfaces to help address neurological disorders.
 
 - One of the creators of [SpikeAgent](https://github.com/LiuLab-Bioelectronics-Harvard/SpikeAgent) and [BCI-Agent](https://github.com/LiuLab-Bioelectronics-Harvard/BCI-Agent). Feel free to ask me about it!
-- Passionate about advancing neurotechnology & open science
+- Scalable tools & open science
 
 ---
 
