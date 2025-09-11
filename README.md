@@ -15,7 +15,7 @@ Trained in electrical engineering, signal processing, and bioinformatics, I’m 
 ### What I'm Up To
 - Pushing the boundaries of neuroscience & AI
 - Building agentic AI systems for (neuro)Science
-- Always exploring new interdisciplinary projects in the BCI space
+- Always exploring new interdisciplinary projects in the neural networks space
 
 ---
 
