@@ -1,6 +1,6 @@
 # Hi there - I'm Arnau
 
-**PhD student @ Harvard | interpretability of (biological and artificial) neural networks**
+**PhD student @ Harvard | ai agents for science | interpretability of (biological and artificial) neural networks**
 
 ---
 
