@@ -1,11 +1,11 @@
 # Hi there - I'm Arnau
 
-**PhD student @ Harvard | ai agents for science | interpretability of (biological and artificial) neural networks**
+**PhD candidate @ Harvard | ai agents for science | interpretability of (biological and artificial) neural networks**
 
 ---
 
 ### About Me  
-Trained in electrical engineering, signal processing, and bioinformatics, I’m currently researching computational neuroscience, agentic AI, and building brain-computer interfaces to help address neurological disorders.
+PhD candidate in Comp Neuro, currently thinking about AI interp
 
 - One of the creators of [SpikeAgent](https://github.com/arnaumarin/SpikeAgent) and [BCI-Agent](https://github.com/LiuLab-Bioelectronics-Harvard/BCI-Agent). Feel free to ask me about it!
 - Scalable tools & open science
