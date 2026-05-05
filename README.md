@@ -1,6 +1,6 @@
 # Hi there - I'm Arnau
 
-**PhD candidate @ Harvard | ai agents for science | interpretability of (biological and artificial) neural networks**
+**PhD candidate @ Harvard | computational neuroscience | interpretability of any type of neural networks**
 
 ---
 
@@ -8,13 +8,11 @@
 PhD candidate in Comp Neuro, currently thinking about AI interp
 
 - One of the creators of [SpikeAgent](https://github.com/arnaumarin/SpikeAgent) and [BCI-Agent](https://github.com/LiuLab-Bioelectronics-Harvard/BCI-Agent). Feel free to ask me about it!
-- Scalable tools & open science
-
 ---
 
 ### What I'm Up To
 - Pushing the boundaries of neuroscience & AI
-- Building agentic AI systems for (neuro)Science
+- Ideally contributing to understand better LLMs
 - Always exploring new interdisciplinary projects in the neural networks space
 
 ---
@@ -23,12 +21,3 @@ PhD candidate in Comp Neuro, currently thinking about AI interp
 - [LinkedIn](https://www.linkedin.com/in/arnau-marin-llobet/)
 - [Website](https://arnaumarin.github.io/)
 - Reach out via LinkedIn or email!
-
----
-
-### Fun fact  
-I am dangerously good at making handmade pizza!
-
----
-
-<p align="center"><i>Always excited to collaborate at the intersection of neuroscience, AI, and engineering!</i></p>
