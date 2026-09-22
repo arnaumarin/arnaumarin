@@ -1,6 +1,6 @@
 # Hi there - I'm Arnau
 
-**PhD candidate @ Harvard | computational neuroscience | interpretability of any type of neural networks**
+**PhDing in interpretability of neural networks**
 
 ---
 
@@ -8,6 +8,7 @@
 PhD candidate in Comp Neuro, currently thinking about AI interp
 
 - One of the creators of [SpikeAgent](https://github.com/arnaumarin/SpikeAgent) and [BCI-Agent](https://github.com/LiuLab-Bioelectronics-Harvard/BCI-Agent). Feel free to ask me about it!
+- Check out the [InterpAgent](https://github.com/arnaumarin/InterpAgent) as well!
 ---
 
 ### What I'm Up To
